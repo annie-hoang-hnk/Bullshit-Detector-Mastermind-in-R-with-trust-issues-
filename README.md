@@ -1,4 +1,4 @@
-# Bullshit Detector: Mastermind in R with trust issues
+# Mastermind-in-R: Zesty Version #
 Group 11 · Introduction to Statistics for Data Science · Week 3 game
 
 ---
