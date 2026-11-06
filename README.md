@@ -9,7 +9,7 @@ This is part of our groupwork projects in week 3, ideally making a game in R.  E
 
 We took the classic code-breaking game **Mastermind** and gave it a twist: **the game doesn't always tell you the truth.** (which is a fun little add-on since we thought the game is not "statistical" enough). 
 
-P/S: Officially, we named the game "Bullsh*t Dectector" (and we actually uploaded the game with that name), However, I do feel like it's quite inappropriate to stick with that name so I changed the name here on GitHub (yet the code is still the old name, enjoy).
+P/S: Officially, we named the game "Bullsh*t Dectector" (and we actually uploaded the game with that name). However, I do feel like it's quite inappropriate to stick with that name so I changed the name here on GitHub (yet the code is still the old name, enjoy).
 
 ---
 
