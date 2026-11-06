@@ -1,4 +1,4 @@
-# Bullshit-Detector-Mastermind-in-R-with-trust-issues-
+# Bullshit Detector: Mastermind in R with trust issues
 Group 11 · Introduction to Statistics for Data Science · Week 3 game
 
 ---
